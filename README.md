@@ -30,6 +30,24 @@ RIANA Hair is a modern, responsive e-commerce website created for a luxury hair 
 - Wig Caps
 - Accessories
 
+- ## 📸 Screenshots
+
+### Homepage
+![Homepage](<img width="1911" height="895" alt="image" src="https://github.com/user-attachments/assets/326e75b0-db0e-4cc3-8b82-e7e7e1fdd144" />
+)
+
+### Shop Categories
+![Shop Categories](<img width="1911" height="902" alt="image" src="https://github.com/user-attachments/assets/ef2990c9-0e65-4ffd-b1c2-0350f2f6e28f" />
+)
+
+### Product Page
+![Product Page](<img width="1903" height="926" alt="image" src="https://github.com/user-attachments/assets/7a67bd00-2940-4718-9832-e20e72558508" />
+)
+
+### Shopping Cart
+![Shopping Cart](<img width="1910" height="876" alt="image" src="https://github.com/user-attachments/assets/cd639334-64f5-4ec8-ac3b-bbb2c4d85b88" />
+)
+
 ## Technologies
 
 - HTML5
